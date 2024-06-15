@@ -1,1 +1,1 @@
-postgres:15.4
+nginx-with-openssl
