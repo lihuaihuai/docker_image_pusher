@@ -1,1 +1,1 @@
-halohub/halo:1.4.12
+registry.fit2cloud.com/halo/halo:2.16
